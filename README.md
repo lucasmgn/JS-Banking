@@ -1,0 +1,3 @@
+# JS-Banking
+Uma simulação de criação de conta bancária utilizando JS
+Criado para testar conhecimentos de JS-Orientado a objetos do curso da Alura, foi ultilizado metódos, classes,heranças, propriedades e outros...
